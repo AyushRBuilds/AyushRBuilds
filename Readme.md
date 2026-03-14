@@ -18,7 +18,7 @@
 - 📍 Based in **Thane, Mumbai, Maharashtra, India**
 - 🎓 Student with a passion for building real-world tech products
 - 🔭 Currently working on [**EduNexus**](https://github.com/AyushRBuilds/EduNexus) — an AI-powered Smart Campus Knowledge Engine
-- 🤖 Also building [**Karrar AI**](https://github.com/Ayush-5107/Karrar-ai) — a modern AI-powered conversational web app
+- 🤖 Also building [**Karrar AI**](https://github.com/Ayush-5107/Karrar-ai) — India's First Multi-Agent Legal AI. Audit Contracts, Analyze Risks & Draft Counter-Terms in Plain English, Under Indian Law.
 - 🌱 Learning **Full-Stack Development**, **AI Integration**, and **Cloud Deployment**
 - ✍️ I write tech blogs on [Hashnode](https://launch-log.hashnode.dev/), [Medium](https://medium.com/@redekarayush07), and [LinkedIn](https://www.linkedin.com/in/ayush-redekar-508a2a363/recent-activity/articles/)
 - 🎯 Goal: Build products that solve real problems and document every step of the journey
@@ -91,7 +91,7 @@
           <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
-      <p align="center">A modern AI-powered conversational web app built with React, Vite & JavaScript. Chat with an intelligent AI assistant in a sleek, responsive interface.</p>
+      <p align="center">India's First Multi-Agent Legal AI. Audit Contracts, Analyze Risks & Draft Counter-Terms in Plain English, Under Indian Law.</p>
     </td>
   </tr>
   <tr>
